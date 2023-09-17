@@ -1,0 +1,13 @@
+.container{
+    height:100vh;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.btn-container{
+    width:10rem;
+    height:6rem;
+    font-size:3rem;
+    cursor:pointer;
+}
